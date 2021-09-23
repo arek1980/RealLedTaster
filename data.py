@@ -1,3 +1,4 @@
+#_data_comment_
 import RPi.GPIO as GPIO
 import time
 import sqlite3
